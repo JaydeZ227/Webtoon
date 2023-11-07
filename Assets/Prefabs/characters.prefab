@@ -97,6 +97,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3c08f76409d75144a1cfba02d4a692d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isUseRealTime: 0
+  isCloseHide: 1
+  showAlphaSpeed: 2
+  hideAlphaSpeed: 2
 --- !u!1 &968422089528849276
 GameObject:
   m_ObjectHideFlags: 0
@@ -194,6 +198,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3c08f76409d75144a1cfba02d4a692d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isUseRealTime: 0
+  isCloseHide: 1
+  showAlphaSpeed: 2
+  hideAlphaSpeed: 2
 --- !u!1 &1726992414253433020
 GameObject:
   m_ObjectHideFlags: 0
@@ -291,6 +299,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3c08f76409d75144a1cfba02d4a692d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isUseRealTime: 0
+  isCloseHide: 1
+  showAlphaSpeed: 2
+  hideAlphaSpeed: 2
 --- !u!1 &2758608935121475044
 GameObject:
   m_ObjectHideFlags: 0
@@ -388,6 +400,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3c08f76409d75144a1cfba02d4a692d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isUseRealTime: 0
+  isCloseHide: 1
+  showAlphaSpeed: 2
+  hideAlphaSpeed: 2
 --- !u!1 &5114572297109471489
 GameObject:
   m_ObjectHideFlags: 0
@@ -485,6 +501,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3c08f76409d75144a1cfba02d4a692d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isUseRealTime: 0
+  isCloseHide: 1
+  showAlphaSpeed: 2
+  hideAlphaSpeed: 2
 --- !u!1 &5861922781422272668
 GameObject:
   m_ObjectHideFlags: 0
@@ -582,6 +602,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3c08f76409d75144a1cfba02d4a692d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isUseRealTime: 0
+  isCloseHide: 1
+  showAlphaSpeed: 2
+  hideAlphaSpeed: 2
 --- !u!1 &6464599609379089769
 GameObject:
   m_ObjectHideFlags: 0
@@ -679,6 +703,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3c08f76409d75144a1cfba02d4a692d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isUseRealTime: 0
+  isCloseHide: 1
+  showAlphaSpeed: 2
+  hideAlphaSpeed: 2
 --- !u!1 &6502224006001869385
 GameObject:
   m_ObjectHideFlags: 0
@@ -776,6 +804,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3c08f76409d75144a1cfba02d4a692d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isUseRealTime: 0
+  isCloseHide: 1
+  showAlphaSpeed: 2
+  hideAlphaSpeed: 2
 --- !u!1 &6620115889247198378
 GameObject:
   m_ObjectHideFlags: 0
@@ -788,7 +820,7 @@ GameObject:
   - component: {fileID: 5668525171443694127}
   - component: {fileID: 3386745564955289595}
   m_Layer: 6
-  m_Name: "\u5DE6\u8FB9\u73A9\u5BB6"
+  m_Name: characters
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
