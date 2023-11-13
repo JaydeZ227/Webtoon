@@ -13,33 +13,6 @@ MonoBehaviour:
   m_Name: Plots
   m_EditorClassIdentifier: 
   plotMessages:
-  - plotName: BedRoom_1
-    plots:
-    - changeBgName: BedRoom
-      charactorName: 
-      nameSetType: 0
-      leftCharactorName: 
-      rightCharactorName: 
-      sayContent: "It\u2019s time for school! Today is the day Jeha confesses to
-        me in the music room!"
-      endChooseGameName: 
-      endActionName_ToGameController: 
-      endNextSay: 
-      sayEndAddPropName: 
-      sayEndGetTipName: 
-      sayEndLockCharactor: 
-    - changeBgName: BedRoom
-      charactorName: Chaerin
-      nameSetType: 1
-      leftCharactorName: 
-      rightCharactorName: player_up
-      sayContent: I better look my best!
-      endChooseGameName: BedRoom_0
-      endActionName_ToGameController: 
-      endNextSay: 
-      sayEndAddPropName: 
-      sayEndGetTipName: 
-      sayEndLockCharactor: Jeha
   - plotName: BedRoom_1_0
     plots:
     - changeBgName: BedRoom
@@ -407,6 +380,33 @@ MonoBehaviour:
       sayEndAddPropName: 
       sayEndGetTipName: 
       sayEndLockCharactor: 
+  - plotName: BedRoom_1
+    plots:
+    - changeBgName: BedRoom
+      charactorName: 
+      nameSetType: 0
+      leftCharactorName: 
+      rightCharactorName: 
+      sayContent: "It\u2019s time for school! Today is the day Jeha confesses to
+        me in the music room!"
+      endChooseGameName: 
+      endActionName_ToGameController: 
+      endNextSay: 
+      sayEndAddPropName: 
+      sayEndGetTipName: 
+      sayEndLockCharactor: 
+    - changeBgName: BedRoom
+      charactorName: Chaerin
+      nameSetType: 1
+      leftCharactorName: 
+      rightCharactorName: player_up
+      sayContent: I better look my best!
+      endChooseGameName: BedRoom_0
+      endActionName_ToGameController: 
+      endNextSay: 
+      sayEndAddPropName: 
+      sayEndGetTipName: 
+      sayEndLockCharactor: Jeha
   - plotName: MusicRoom_0
     plots:
     - changeBgName: MusicRoom
